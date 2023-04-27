@@ -1,0 +1,201 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+.row {
+    border: 2px solid red;
+}
+
+.row1 {
+    height: 60px;
+    color:white;
+    background-color:black;
+   
+}
+
+.col {
+    float: left;
+    border: 1px solid black;
+    height: 100%;
+}
+
+
+.col11 {
+    width: 113px;
+    margin-left: 15px;
+    padding:4px 15px;
+}
+
+.col12 {
+    width: 90px;
+    margin-left: 6px;
+    padding:6px 8px;
+}
+
+.col13 {
+    width: 1208px;
+    margin-left: 6px;
+    padding:6px 8px;
+}
+.input1{
+    width: 1190px;
+    height:40px;
+    
+}
+
+.col14 {
+    width: 74px;
+    padding: 18px 22px;
+}
+
+.col15 {
+    width: 131px;
+    margin-left: 6px;
+    padding: 6px 14px;
+}
+
+.col16 {
+    width: 77px;
+    margin-left: 6px;
+    padding: 4px 7px;
+}
+
+.col17 {
+    width: 84px;
+    margin-left: 6px;
+    padding:15px 25px;
+}
+
+
+.row2 {
+    height: 39px;
+    background-color: #232F3E;
+    color:white;
+}
+
+.col21 {
+    width: 61px;
+    margin-left: 15px;
+    padding:5px 10px 5px 15px;
+
+}
+
+.col22 {
+    width: 108px;
+    padding:6px 8px;
+}
+
+.col23 {
+    width: 135px;
+    padding:6px 8px;
+}
+
+.col24 {
+    width: 75px;
+    padding:6px 8px;
+}
+
+.col25 {
+    width: 87px;
+    padding:6px 8px;
+}
+
+.col26 {
+    width: 47px;
+    padding:6px 8px;
+}
+
+.col27 {
+    width: 198px;
+    float: right;
+    padding:6px 27px;
+}
+
+.row3 {
+    height: 302px;
+    margin: auto;
+    width:1500px;
+}
+
+.row4 {
+    height: 420px;
+    margin: auto;
+    width:1500px;
+    padding:20px 8px 15px 8px;
+}
+
+.col41 {
+    width:370px;
+    height:100%;
+    margin:auto;
+    padding:10px;
+}
+
+.col42 {
+    width:370px;
+    height:100%;
+    margin:auto;
+    padding:10px;
+}
+
+.col43 {
+    width:370px;
+    height:100%;
+    margin:auto;
+    padding:10px;
+}
+
+.col44 {
+    width:370px;
+    height:100%;
+    margin:auto;
+    padding:10px;
+}
+
+.row5 {
+    height: 282px;
+    margin: auto;
+    width:1500px;
+    padding:10px 20px;
+}
+.row-six{
+    border: 2px solid red;
+    background-color: #232F3E;
+    
+
+}
+.row6 {
+    border: 1px solid black;
+    height: 450px;
+    width:1000px;
+    margin:auto;
+    background-color: #232F3E;
+    color:white;
+}
+
+.col61{
+    height: 450px;
+    width:249px;
+    padding: 0px 48px;
+}
+.col62{
+    height: 450px;
+    width:249px;
+    padding: 0px 48px;
+}
+.col63{
+    height: 450px;
+    width:250px;
+    padding: 0px 48px;
+}
+.col64{
+    height: 450px;
+    width:250px;
+    padding: 0px 48px;
+}
+
+
